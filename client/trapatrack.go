@@ -27,7 +27,7 @@ import (
 )
 
 var (
-	REPORT_URL = "https://security-center.panasonic.eu/trapatrack/report.php"
+	REPORT_URL = "https://example.com/report.php"
 	CAPTURE_TIME = "00:00:10"
 	
 	PRIVACY_CAPTURE_GENERAL = true
